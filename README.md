@@ -29,3 +29,14 @@
 28. **BST - Remove** - Write a function that removes a node from a Binary Search Tree
 29. **Big O #BST** - What are the average time complexities of those operations on a Binary Search Tree
 30. **Is AVL** - Write a function that checks if a binary tree is a valid *AVL Tree*
+31. **AVL - Insert** - Write a function that inserts a value in an AVL Tree
+32. **AVL - Array to AVL** - Write a function that builds an AVL tree from an array
+33. **AVL - Remove** - Write a function that removes a node from an AVL tree
+34. **AVL - From sorted array** - Write a function that builds an AVL tree from an array
+35. **Big O #AVL Tree** - What are the average time complexities of those operations on an AVL Tree
+36. **Is Binary heap** - Write a function that checks if a binary tree is a valid *Max Binary Heap*
+37. **Heap - Insert** - Write a function that inserts a value in Max Binary Heap
+38. **Heap - Array to Binary Heap** - Write a function that builds a Max Binary Heap tree from an array
+39. **Heap - Extract** - Write a function that extracts the root node of a Max Binary Heap
+40. **Heap - Sort** - Write a function that converts a Binary Max Heap to a sorted array of integers
+41. **Big 0 #Binary Heap** - What are the average time complexities of those operations on a Binary Heap
